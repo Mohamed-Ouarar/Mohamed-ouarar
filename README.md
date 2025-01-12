@@ -1,5 +1,5 @@
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ACB34&height=120&section=header" />
 </a>
 <div align="center">
 <!-- <img src="https://badge.mediaplus.ma/greenbinary/mouarar" alt="mouarar's 42 stats" > -->
@@ -11,7 +11,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ouarar&theme=merko&show_icons=true)<br><br>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ouarar&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </div><a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ACB34&height=120&section=footer" />
 </a>
 
 
